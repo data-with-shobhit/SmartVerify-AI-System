@@ -3,7 +3,7 @@
 A state-of-the-art multimodal AI proof-of-concept (POC) designed to automatically verify packaged items in quick commerce orders (e.g., Blinkit, Zepto, Swiggy Instamart) to ensure perfect order accuracy before delivery.
 
 <div align="center">
-  <video src="./assets/demo_video.mp4" width="80%" controls="controls">
+  <video src="https://github.com/data-with-shobhit/SmartVerify-AI-System/raw/main/assets/demo_video.mp4" width="80%" controls="controls">
     Your browser does not support the video tag.
   </video>
   <br>

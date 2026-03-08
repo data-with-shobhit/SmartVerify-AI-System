@@ -1,0 +1,12 @@
+streamlit
+ultralytics
+python-dotenv
+easyocr
+torch
+torchvision
+torchaudio
+Pillow
+numpy
+opencv-python
+faiss-cpu
+clip @ git+https://github.com/openai/CLIP.git

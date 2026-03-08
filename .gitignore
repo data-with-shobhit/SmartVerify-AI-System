@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+
+
+# Generated FAISS Catalogs
+catalog/*.faiss
+catalog/*_meta.json
+
+# Environment Variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# OS Specific
+.DS_Store
+Thumbs.db

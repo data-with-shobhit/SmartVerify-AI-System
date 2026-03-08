@@ -1,0 +1,34 @@
+[
+  {
+    "sku_id": "sku_001",
+    "product_name": "Amul Masti Butter Milk",
+    "brand": "Amul",
+    "variant": "Masti Spiced Buttermilk",
+    "weight": "200ml",
+    "ocr_keywords": ["amul", "masti", "butter", "buttermilk", "spiced", "chaas", "200ml", "200 ml", "मस्ती", "मसाला", "छाछ", "अमूल", "अमल", "म२्ती", "मस्ाला"]
+  },
+  {
+    "sku_id": "sku_002",
+    "product_name": "Maggi Cuppa Noodles",
+    "brand": "Maggi",
+    "variant": "Cuppa Noodles",
+    "weight": "70g",
+    "ocr_keywords": ["maggi", "cuppa", "noodles", "instant", "70g", "masala"]
+  },
+  {
+    "sku_id": "sku_003",
+    "product_name": "Madhur Sugar",
+    "brand": "Madhur",
+    "variant": "Refined Sugar",
+    "weight": "1kg",
+    "ocr_keywords": ["madhur", "sugar", "refined", "chini", "1kg", "1 kg", "sulphurless"]
+  },
+  {
+    "sku_id": "sku_004",
+    "product_name": "Tata Sampann Toor Daal",
+    "brand": "Tata Sampann",
+    "variant": "Toor Daal",
+    "weight": "1kg",
+    "ocr_keywords": ["tata", "sampann", "toor", "daal", "dal", "arhar", "1kg", "1 kg", "unpolished"]
+  }
+]

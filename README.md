@@ -3,7 +3,7 @@
 A state-of-the-art multimodal AI proof-of-concept (POC) designed to automatically verify packaged items in quick commerce orders (e.g., Blinkit, Zepto, Swiggy Instamart) to ensure perfect order accuracy before delivery.
 
 **🎥 Watch the Demo:**  
-[Click here to view the demo video](assets/demo_video.mp4)
+[Click here to view the demo video](https://www.youtube.com/watch?v=WLC1klk0KcA)
 
 *(See it in action: Fast, AI-driven order reconciliation)*
 

@@ -22,6 +22,7 @@ import numpy as np
 import torch
 import clip
 import faiss
+import re
 import cv2
 from PIL import Image
 from tqdm import tqdm
@@ -53,7 +54,7 @@ def normalize_filename(fname: str) -> str:
     stem = os.path.splitext(fname)[0]
     stem = stem.lower().strip()
     # collapse all whitespace and separators into single underscore
-    import re
+
     stem = re.sub(r'[\s\-_]+', '_', stem)
     return stem
 

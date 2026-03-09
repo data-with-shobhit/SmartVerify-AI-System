@@ -3,6 +3,7 @@ import os
 import re
 import numpy as np
 import difflib
+import easyocr
 from PIL import Image
 from core.logger import get_logger
 from core.config import Config
@@ -20,7 +21,6 @@ class OCRManager:
 
     def _load_ocr(self):
         if self.reader is None:
-            import easyocr
             logger.info("Initializing EasyOCR (en, hi)...")
             self.reader = easyocr.Reader(['en', 'hi'])
 
